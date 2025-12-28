@@ -13,7 +13,7 @@ module.exports = {
     'https://fonts.googleapis.com/css?family=Bitter&display=swap',
     'https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300&display=swap',
     'https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@300&display=swap',
-    'https://chinese-fonts-cdn.deno.dev/packages/dyh/dist/SmileySans-Oblique/result.css'
+    'https://fontsapi.zeoseven.com/92/main/result.css'
   ],
   // 无衬线字体 例如'"LXGW WenKai"'
   FONT_SANS: [
