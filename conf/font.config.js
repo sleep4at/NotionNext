@@ -13,12 +13,12 @@ module.exports = {
     'https://fonts.googleapis.com/css?family=Bitter&display=swap',
     'https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300&display=swap',
     'https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@300&display=swap',
-    'https://fonts.cdnfonts.com/css/smiley-sans'
+    'https://chinese-fonts-cdn.deno.dev/packages/dyh/dist/SmileySans-Oblique/result.css'
   ],
   // 无衬线字体 例如'"LXGW WenKai"'
   FONT_SANS: [
     // '"LXGW WenKai"',
-    '"Smiley Sans"',
+    '"Smiley Sans Oblique"',
     '"PingFang SC"',
     '-apple-system',
     'BlinkMacSystemFont',
